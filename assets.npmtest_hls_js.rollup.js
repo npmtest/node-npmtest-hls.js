@@ -15,7 +15,7 @@
 
 
 
-    // run shared js-env code - init-before
+    // run shared js-env code - pre-init
     (function () {
         // init local
         local = {};
